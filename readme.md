@@ -8,11 +8,10 @@ Em uma aplicação de e-commerce é comum existir sistemas de checkout (carrinho
 
 1. Utilização de padrões de projeto de forma consistente.
 2. Padrão RESTful.
-3. Boas práticas do ReactJS.
+3. Utilizar ReactJS.
 4. Noções básicas de design e construção de interfaces.
 5. Modelagem de Banco de Dados.
 6. Utilizar NodeJS
-7. Utilizar ReactJS
 
 ## **Escopo**
 
@@ -159,5 +158,5 @@ Deve retornar se as quantidades de um produto está disponível no estoque. Deve
 ### Como submeter
 
 - Criar um repositório no GitHub contendo instruções de como executar a aplicação.
-- Compartilhar o repositório com os usuário Emanuel\*\*\* e JohnathanALves.
-- Caso tenha alguma dúvida favor enviar email para emanuel.alves@plantebemtec.com.br
+- Compartilhar o repositório com os usuário @Emanuel e @JohnathanALves
+- Caso tenha alguma dúvida favor enviar email para emanuel@f4a.dev
