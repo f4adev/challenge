@@ -158,5 +158,5 @@ Deve retornar se as quantidades de um produto está disponível no estoque. Deve
 ### Como submeter
 
 - Criar um repositório no GitHub contendo instruções de como executar a aplicação.
-- Compartilhar o repositório com os usuário @Emanuel e @JohnathanALves
+- Compartilhar o repositório com os usuários [@Emanuel](https://github.com/ealves612) e [@JohnathanALves](https://github.com/JohnathanALves)
 - Caso tenha alguma dúvida favor enviar email para emanuel@f4a.dev
