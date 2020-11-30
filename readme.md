@@ -1,4 +1,4 @@
-# Challenge Plantebem (Desenvolvedor Full-Stack)
+# Challenge Desenvolvedor Full-Stack JavaScript
 
 ## **Descrição**
 
@@ -11,6 +11,8 @@ Em uma aplicação de e-commerce é comum existir sistemas de checkout (carrinho
 3. Boas práticas do ReactJS.
 4. Noções básicas de design e construção de interfaces.
 5. Modelagem de Banco de Dados.
+6. Utilizar NodeJS
+7. Utilizar ReactJS
 
 ## **Escopo**
 
